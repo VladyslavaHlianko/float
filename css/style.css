@@ -108,7 +108,6 @@ table {
 .orange{
     width: 400px;
     float: left;
-    background: orange;
 }
 .orange>div{
     height: 100px;
